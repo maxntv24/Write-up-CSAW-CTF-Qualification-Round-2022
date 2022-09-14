@@ -36,5 +36,4 @@ while True:
 Đây là thử thách phải vượt qua nhiều vòng, như wayback , morse, repo github, các thông tin về thành phố , ngân hàng
 ![image](https://user-images.githubusercontent.com/82523299/189528598-f3996c45-d48d-461a-9b94-db7db6689397.png)
 ### Flag: flag{C0N6r475463N7600DW0rKN3X771M3N0PU811C53rV3r}
-https://webhook.site/00666a70-2a29-4913-b6f9-ba35a775cc7c
-https://booming-tracker-240.notion.site/ea948993791a44f58f1078d68eef6e61
+
